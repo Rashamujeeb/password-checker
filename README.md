@@ -22,7 +22,7 @@ A **GUI-based** tool to evaluate password strength, detect weaknesses, and recom
 ## **Installation**  
 Clone the repository:  
 ```sh
-git clone https://github.com/yourusername/password-checker.git
+git clone https://github.com/Rashamujeeb/password-checker.git
 cd password-checker
 python password_checker.py
 ```
